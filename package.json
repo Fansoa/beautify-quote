@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Fansoa/beautify-quote/issues"
   },
-  "homepage": "https://github.com/Fansoa/beautify-quote#readme"
+  "homepage": "https://github.com/Fansoa/beautify-quote#readme",
+  "dependencies": {
+    "canvas": "^2.11.0"
+  }
 }
