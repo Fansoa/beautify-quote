@@ -34,4 +34,4 @@ async function loadImage(url) {
   })
 }
 
-modules.export = addTextToImage
+module.exports = addTextToImage
