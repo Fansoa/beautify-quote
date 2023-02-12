@@ -1,0 +1,19 @@
+{
+  "name": "beautify-quote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fansoa/beautify-quote.git"
+  },
+  "author": "Christopher Debray, Daniel Cadeau, François verin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fansoa/beautify-quote/issues"
+  },
+  "homepage": "https://github.com/Fansoa/beautify-quote#readme"
+}
